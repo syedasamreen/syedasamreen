@@ -1,0 +1,9 @@
+,lo,enp3s0,virbr0,virbr0-nic,docker0
+bytes_sent,5858752,2671512,0,0,0
+bytes_recv,5858752,34302817,0,0,0
+packets_sent,8895,16628,0,0,0
+packets_recv,8895,46479,0,0,0
+errin,0,0,0,0,0
+errout,0,0,0,0,0
+dropin,0,0,0,0,0
+dropout,0,0,0,0,0

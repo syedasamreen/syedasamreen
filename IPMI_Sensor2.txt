@@ -1,0 +1,122 @@
+IPMI_sensor,Tag=CPU1_Temp Value=33,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=CPU2_Temp Value=34,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=Inlet_Temp Value=no,Unit=reading,Status= ns2022-03-24 12:32:54
+IPMI_sensor,Tag=PCH_Temp Value=41,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=System_Temp Value=24,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=Peripheral_Temp Value=35,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=MB_10G_Temp Value=45,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=VRMCpu1_Temp Value=32,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=VRMCpu2_Temp Value=36,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=VRMP1ABC_Temp Value=31,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=VRMP1DEF_Temp Value=35,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=VRMP2ABC_Temp Value=37,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=VRMP2DEF_Temp Value=31,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=P1-DIMMA1_Temp Value=24,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=P1-DIMMA2_Temp Value=24,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=P1-DIMMB1_Temp Value=24,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=P1-DIMMC1_Temp Value=24,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=P1-DIMMD1_Temp Value=26,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=P1-DIMMD2_Temp Value=25,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=P1-DIMME1_Temp Value=26,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=P1-DIMMF1_Temp Value=26,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=P2-DIMMA1_Temp Value=31,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=P2-DIMMA2_Temp Value=31,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=P2-DIMMB1_Temp Value=31,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=P2-DIMMC1_Temp Value=30,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=P2-DIMMD1_Temp Value=26,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=P2-DIMMD2_Temp Value=26,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=P2-DIMME1_Temp Value=25,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=P2-DIMMF1_Temp Value=25,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=M2NVMeSSD_Temp Value=29,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=MBNVMeSSD_Temp Value=no,Unit=reading,Status= ns2022-03-24 12:32:54
+IPMI_sensor,Tag=FAN1 Value=3400,Unit=RPM,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=FAN2 Value=3400,Unit=RPM,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=FAN3 Value=3400,Unit=RPM,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=FAN4 Value=no,Unit=reading,Status= ns2022-03-24 12:32:54
+IPMI_sensor,Tag=FAN5 Value=no,Unit=reading,Status= ns2022-03-24 12:32:54
+IPMI_sensor,Tag=FAN6 Value=no,Unit=reading,Status= ns2022-03-24 12:32:54
+IPMI_sensor,Tag=FANA Value=no,Unit=reading,Status= ns2022-03-24 12:32:54
+IPMI_sensor,Tag=FANB Value=no,Unit=reading,Status= ns2022-03-24 12:32:54
+IPMI_sensor,Tag=12V Value=11.82,Unit=Volts,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=5VCC Value=5.04,Unit=Volts,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=3.3VCC Value=3.38,Unit=Volts,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=VBAT Value=0x04,Unit=,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=Vcpu1 Value=1.86,Unit=Volts,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=Vcpu2 Value=1.86,Unit=Volts,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=VDimmP1ABC Value=1.21,Unit=Volts,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=VDimmP1DEF Value=1.21,Unit=Volts,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=VDimmP2ABC Value=1.21,Unit=Volts,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=VDimmP2DEF Value=1.21,Unit=Volts,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=5VSB Value=4.92,Unit=Volts,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=3.3VSB Value=3.38,Unit=Volts,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=1.8V_PCH Value=1.84,Unit=Volts,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=PVNN_PCH Value=1.04,Unit=Volts,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=1.05V_PCH Value=1.08,Unit=Volts,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=Chassis_Intru Value=0x00,Unit=,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=PS1_Status Value=0x01,Unit=,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=PS2_Status Value=0x01,Unit=,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=AOC_NIC_Temp Value=58,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=AOC_SAS_Temp Value=68,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=HDD_Temp Value=27,Unit=degrees_C,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=HDD_Status Value=0x01,Unit=,Status= ok2022-03-24 12:32:54
+IPMI_sensor,Tag=CPU1_Temp Value=33,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=CPU2_Temp Value=34,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=Inlet_Temp Value=no,Unit=reading,Status= ns 2022-03-24 12:33:53
+IPMI_sensor,Tag=PCH_Temp Value=41,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=System_Temp Value=24,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=Peripheral_Temp Value=35,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=MB_10G_Temp Value=45,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=VRMCpu1_Temp Value=32,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=VRMCpu2_Temp Value=36,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=VRMP1ABC_Temp Value=31,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=VRMP1DEF_Temp Value=35,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=VRMP2ABC_Temp Value=37,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=VRMP2DEF_Temp Value=31,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=P1-DIMMA1_Temp Value=24,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=P1-DIMMA2_Temp Value=24,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=P1-DIMMB1_Temp Value=24,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=P1-DIMMC1_Temp Value=24,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=P1-DIMMD1_Temp Value=26,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=P1-DIMMD2_Temp Value=25,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=P1-DIMME1_Temp Value=26,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=P1-DIMMF1_Temp Value=26,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=P2-DIMMA1_Temp Value=31,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=P2-DIMMA2_Temp Value=31,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=P2-DIMMB1_Temp Value=31,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=P2-DIMMC1_Temp Value=30,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=P2-DIMMD1_Temp Value=26,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=P2-DIMMD2_Temp Value=26,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=P2-DIMME1_Temp Value=25,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=P2-DIMMF1_Temp Value=25,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=M2NVMeSSD_Temp Value=29,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=MBNVMeSSD_Temp Value=no,Unit=reading,Status= ns 2022-03-24 12:33:53
+IPMI_sensor,Tag=FAN1 Value=3400,Unit=RPM,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=FAN2 Value=3400,Unit=RPM,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=FAN3 Value=3400,Unit=RPM,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=FAN4 Value=no,Unit=reading,Status= ns 2022-03-24 12:33:53
+IPMI_sensor,Tag=FAN5 Value=no,Unit=reading,Status= ns 2022-03-24 12:33:53
+IPMI_sensor,Tag=FAN6 Value=no,Unit=reading,Status= ns 2022-03-24 12:33:53
+IPMI_sensor,Tag=FANA Value=no,Unit=reading,Status= ns 2022-03-24 12:33:53
+IPMI_sensor,Tag=FANB Value=no,Unit=reading,Status= ns 2022-03-24 12:33:53
+IPMI_sensor,Tag=12V Value=11.82,Unit=Volts,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=5VCC Value=5.04,Unit=Volts,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=3.3VCC Value=3.38,Unit=Volts,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=VBAT Value=0x04,Unit=,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=Vcpu1 Value=1.86,Unit=Volts,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=Vcpu2 Value=1.86,Unit=Volts,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=VDimmP1ABC Value=1.21,Unit=Volts,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=VDimmP1DEF Value=1.21,Unit=Volts,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=VDimmP2ABC Value=1.21,Unit=Volts,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=VDimmP2DEF Value=1.21,Unit=Volts,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=5VSB Value=4.92,Unit=Volts,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=3.3VSB Value=3.38,Unit=Volts,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=1.8V_PCH Value=1.84,Unit=Volts,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=PVNN_PCH Value=1.04,Unit=Volts,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=1.05V_PCH Value=1.08,Unit=Volts,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=Chassis_Intru Value=0x00,Unit=,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=PS1_Status Value=0x01,Unit=,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=PS2_Status Value=0x01,Unit=,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=AOC_NIC_Temp Value=58,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=AOC_SAS_Temp Value=68,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=HDD_Temp Value=27,Unit=degrees_C,Status= ok 2022-03-24 12:33:53
+IPMI_sensor,Tag=HDD_Status Value=0x01,Unit=,Status= ok 2022-03-24 12:33:53

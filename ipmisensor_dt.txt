@@ -1,0 +1,61 @@
+IPMI_sensor: Tags=CPU1 Temp        value= 33 degrees C      status= ok
+IPMI_sensor: Tags=CPU2 Temp        value= 34 degrees C      status= ok
+IPMI_sensor: Tags=Inlet Temp       value= no reading        status= ns
+IPMI_sensor: Tags=PCH Temp         value= 41 degrees C      status= ok
+IPMI_sensor: Tags=System Temp      value= 24 degrees C      status= ok
+IPMI_sensor: Tags=Peripheral Temp  value= 35 degrees C      status= ok
+IPMI_sensor: Tags=MB_10G Temp      value= 45 degrees C      status= ok
+IPMI_sensor: Tags=VRMCpu1 Temp     value= 32 degrees C      status= ok
+IPMI_sensor: Tags=VRMCpu2 Temp     value= 36 degrees C      status= ok
+IPMI_sensor: Tags=VRMP1ABC Temp    value= 31 degrees C      status= ok
+IPMI_sensor: Tags=VRMP1DEF Temp    value= 35 degrees C      status= ok
+IPMI_sensor: Tags=VRMP2ABC Temp    value= 37 degrees C      status= ok
+IPMI_sensor: Tags=VRMP2DEF Temp    value= 31 degrees C      status= ok
+IPMI_sensor: Tags=P1-DIMMA1 Temp   value= 24 degrees C      status= ok
+IPMI_sensor: Tags=P1-DIMMA2 Temp   value= 24 degrees C      status= ok
+IPMI_sensor: Tags=P1-DIMMB1 Temp   value= 24 degrees C      status= ok
+IPMI_sensor: Tags=P1-DIMMC1 Temp   value= 24 degrees C      status= ok
+IPMI_sensor: Tags=P1-DIMMD1 Temp   value= 26 degrees C      status= ok
+IPMI_sensor: Tags=P1-DIMMD2 Temp   value= 25 degrees C      status= ok
+IPMI_sensor: Tags=P1-DIMME1 Temp   value= 26 degrees C      status= ok
+IPMI_sensor: Tags=P1-DIMMF1 Temp   value= 26 degrees C      status= ok
+IPMI_sensor: Tags=P2-DIMMA1 Temp   value= 31 degrees C      status= ok
+IPMI_sensor: Tags=P2-DIMMA2 Temp   value= 31 degrees C      status= ok
+IPMI_sensor: Tags=P2-DIMMB1 Temp   value= 31 degrees C      status= ok
+IPMI_sensor: Tags=P2-DIMMC1 Temp   value= 30 degrees C      status= ok
+IPMI_sensor: Tags=P2-DIMMD1 Temp   value= 26 degrees C      status= ok
+IPMI_sensor: Tags=P2-DIMMD2 Temp   value= 26 degrees C      status= ok
+IPMI_sensor: Tags=P2-DIMME1 Temp   value= 25 degrees C      status= ok
+IPMI_sensor: Tags=P2-DIMMF1 Temp   value= 25 degrees C      status= ok
+IPMI_sensor: Tags=M2NVMeSSD Temp   value= 29 degrees C      status= ok
+IPMI_sensor: Tags=MBNVMeSSD Temp   value= no reading        status= ns
+IPMI_sensor: Tags=FAN1             value= 3400 RPM          status= ok
+IPMI_sensor: Tags=FAN2             value= 3400 RPM          status= ok
+IPMI_sensor: Tags=FAN3             value= 3400 RPM          status= ok
+IPMI_sensor: Tags=FAN4             value= no reading        status= ns
+IPMI_sensor: Tags=FAN5             value= no reading        status= ns
+IPMI_sensor: Tags=FAN6             value= no reading        status= ns
+IPMI_sensor: Tags=FANA             value= no reading        status= ns
+IPMI_sensor: Tags=FANB             value= no reading        status= ns
+IPMI_sensor: Tags=12V              value= 11.82 Volts       status= ok
+IPMI_sensor: Tags=5VCC             value= 5.04 Volts        status= ok
+IPMI_sensor: Tags=3.3VCC           value= 3.38 Volts        status= ok
+IPMI_sensor: Tags=VBAT             value= 0x04              status= ok
+IPMI_sensor: Tags=Vcpu1            value= 1.86 Volts        status= ok
+IPMI_sensor: Tags=Vcpu2            value= 1.86 Volts        status= ok
+IPMI_sensor: Tags=VDimmP1ABC       value= 1.21 Volts        status= ok
+IPMI_sensor: Tags=VDimmP1DEF       value= 1.21 Volts        status= ok
+IPMI_sensor: Tags=VDimmP2ABC       value= 1.21 Volts        status= ok
+IPMI_sensor: Tags=VDimmP2DEF       value= 1.21 Volts        status= ok
+IPMI_sensor: Tags=5VSB             value= 4.92 Volts        status= ok
+IPMI_sensor: Tags=3.3VSB           value= 3.38 Volts        status= ok
+IPMI_sensor: Tags=1.8V PCH         value= 1.84 Volts        status= ok
+IPMI_sensor: Tags=PVNN PCH         value= 1.04 Volts        status= ok
+IPMI_sensor: Tags=1.05V PCH        value= 1.08 Volts        status= ok
+IPMI_sensor: Tags=Chassis Intru    value= 0x00              status= ok
+IPMI_sensor: Tags=PS1 Status       value= 0x01              status= ok
+IPMI_sensor: Tags=PS2 Status       value= 0x01              status= ok
+IPMI_sensor: Tags=AOC_NIC Temp     value= 58 degrees C      status= ok
+IPMI_sensor: Tags=AOC_SAS Temp     value= 68 degrees C      status= ok
+IPMI_sensor: Tags=HDD Temp         value= 27 degrees C      status= ok
+IPMI_sensor: Tags=HDD Status       value= 0x01              status= ok
